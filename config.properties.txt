@@ -1,1 +1,3 @@
 experiment = seccess
+salary = 10000
+name = Ahmad
