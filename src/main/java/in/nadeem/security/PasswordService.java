@@ -9,7 +9,7 @@ public class PasswordService {
 	public static String encode(String txt) {
 		
 		//making changes for BUG-101
-		int i=10;
+		int i=20;
 		int j = 20;
 		
 		Encoder encoder = Base64.getEncoder();
